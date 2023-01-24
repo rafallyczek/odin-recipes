@@ -1,0 +1,9 @@
+body{
+    background-color: #333333;
+}
+h1, h2, p, ul, ol{
+    color: white;
+}
+a{
+    color: rgb(128, 204, 255);
+}
