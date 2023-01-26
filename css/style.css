@@ -4,6 +4,23 @@ body{
 h1, h2, p, ul, ol{
     color: white;
 }
+h1{
+    text-align: center;
+}
 a{
-    color: rgb(128, 204, 255);
+    color: white;
+    text-decoration: none;
+    background-color: rgb(77, 184, 255);
+    padding: 8px;
+    width: 100px;
+    text-align: center;
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+.container{
+    display: flex;
+    justify-content: center;
 }
