@@ -18,6 +18,7 @@ h1, h2, p, ul, ol{
 }
 
 h1{
+    font-size: 2rem;
     text-align: center;
 }
 
@@ -42,7 +43,7 @@ a{
 }
 
 a{
-    padding: 8px;
+    padding: .5em 1em;
     width: 100px;
 }
 
