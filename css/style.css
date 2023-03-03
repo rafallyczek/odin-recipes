@@ -44,7 +44,7 @@ a{
 
 a{
     padding: .5em 1em;
-    width: 100px;
+    min-width: 100px;
 }
 
 /* ------------------
